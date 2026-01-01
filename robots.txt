@@ -1,0 +1,12 @@
+# robots.txt for No Conversion Educational Framework GitHub Pages site
+# Allows all search engines to crawl the entire site (recommended for public projects)
+
+User-agent: *
+Allow: /
+
+# Sitemap location (helps search engines discover your content faster)
+Sitemap: https://HelixOriginator.github.io/no-conversion-religious-literacy-framework/sitemap.xml
+
+# Optional: Prevent indexing of any future private or draft folders (uncomment if needed)
+# Disallow: /drafts/
+# Disallow: /private/
